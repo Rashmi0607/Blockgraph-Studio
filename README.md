@@ -1,6 +1,11 @@
 # Blockgraph-Studio - VectorShift Pipeline Editor
 A visual node-based pipeline editor built with React and FastAPI, similar to VectorShift's flow builder.
 
+---
+
+##  Live Demo : https://blockgraph-studio.netlify.app/
+
+---
 ## Features
 
 ✅ **Node Abstraction System** - Reusable `BaseNode` component for easy node creation
